@@ -14,3 +14,8 @@ Skills shown: data preparation, analytical judgment, translating model output in
 Python and AI-assisted coding for market data workflows. I own logic, testing, and debugging rather than pasting unreviewed code.
 
 Skills shown: AI-assisted development with accountability, iteration under uncertainty.
+
+## Portfolio enablement artefacts (this repo)
+Playbook, evaluation checklist, Mermaid workflow, agent runbook template, metrics sample, failure-mode log, and tiny Python helpers for scoring and state transitions. Built to show how I would structure junior AI enablement work with HITL gates.
+
+Skills shown: enablement design, quality gates, adoption metrics, risk-aware documentation.

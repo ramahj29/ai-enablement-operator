@@ -12,6 +12,11 @@ Strongest fit: junior / graduate **AI ops**, **AI enablement**, **applied automa
 ## Contents
 - [HITL operating model](docs/hitl-operating-model.md)
 - [Selected projects](docs/projects.md)
+- [Sample enablement playbook](docs/enablement-playbook.md)
+- [Evaluation checklist](docs/evaluation-checklist.md)
+- [Workflow diagram (Mermaid)](docs/workflow-diagram.md)
+- [Agent runbook template](docs/agent-runbook-template.md)
+- [Examples (metrics, failure log, scripts)](examples/README.md)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ramah-joseph
